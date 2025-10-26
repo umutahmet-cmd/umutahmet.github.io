@@ -1,3 +1,5 @@
+# robots.txt — umutahmet-cmd.github.io
 User-agent: *
 Allow: /
-Sitemap: https://umutahmet.github.io/sitemap.xml
+
+Sitemap: https://umutahmet-cmd.github.io/sitemap.xml
